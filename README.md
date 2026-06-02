@@ -22,6 +22,22 @@
 
 ---
 
+### 🛠️ Languages I work with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,lua&perline=8" />
+</p>
+
+---
+
+### 🛠️ Other Tech I work with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot,blender,figma,firebase,ai,ps,pr,sketchup,vscode&perline=8" />
+</p>
+
+---
+
 ### 🌱 A bit more
 
 - 🔭 Currently building award winning Roblox games
