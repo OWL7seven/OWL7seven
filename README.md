@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Software Engineer</b><br/>
-  I build Games
+  <b>Game Developer</b><br/>
   Creator of Pocket Space Program
 </p>
 
